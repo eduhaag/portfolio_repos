@@ -40,5 +40,10 @@ $ yarn dev
  ```
  The API is now ready to receive HTTP requests via http: // localhost: 3333. To change the port you can change the server.js file
 
+---
+# Front-end projects
+You can use this API with frontend projects like:
+- 📱 [Mobile](https://github.com/eduhaag/front-portfolio-repo)
+- 🖥 [Web](https://github.com/eduhaag/mobile-portfolio-repo)
 ___
 ↪  This project was developed by [Eduardo F. Haag](https://github/eduhaag) using the [template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs) provided by [Rocketseat](https://github.com/Rocketseat).
