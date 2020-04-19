@@ -1,5 +1,6 @@
-  <img align="center" src="https://ik.imagekit.io/dkdai9mqcy/logo_Projects_Repository_tt0lg2p01.png"/>
+
   <nav align="center">
+    <img align="center" src="https://ik.imagekit.io/dkdai9mqcy/logo_Projects_Repository_tt0lg2p01.png"/>
   <img src="https://img.shields.io/github/languages/top/eduhaag/portfolio_repos?color=7159c1" />
 
   <img src="https://img.shields.io/github/license/eduhaag/portfolio_repos?color=%237159c1">
