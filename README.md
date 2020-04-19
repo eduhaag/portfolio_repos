@@ -7,7 +7,7 @@
 
   <img src="https://img.shields.io/github/repo-size/eduhaag/portfolio_repos?color=7159c1" />
 
-  [About](About) | [Technologies](Technologies) | [How to use](How) | [Front-end projects](Front)
+  [About](#about) | [Technologies](#technologies) | [How to use](#how-to-use) | [Front end projects](#front-end-projects)
   </nav>
 </header>
 
@@ -50,7 +50,7 @@ $ yarn dev
  The API is now ready to receive HTTP requests via http: // localhost: 3333. To change the port you can change the server.js file
 
 ---
-# 📌  Front-end projects
+# 📌  Front end projects
 You can use this API with frontend projects like:
 - 📱 [Mobile](https://github.com/eduhaag/front-portfolio-repo)
 - 🖥 [Web](https://github.com/eduhaag/mobile-portfolio-repo)
