@@ -1,6 +1,15 @@
-<h1 align=center>
+<header align=center>
   <img src="https://ik.imagekit.io/dkdai9mqcy/logo_Projects_Repository_tt0lg2p01.png"/>
-</h1>
+  <nav>
+  <img src="https://img.shields.io/github/languages/top/eduhaag/portfolio_repos?color=7159c1" />
+
+  <img src="https://img.shields.io/github/license/eduhaag/portfolio_repos?color=%237159c1">
+
+  <img src="https://img.shields.io/github/repo-size/eduhaag/portfolio_repos?color=7159c1" />
+
+  [About](About) | [Technologies](Technologies) | [How to use](How) | [Front-end projects](Front)
+  </nav>
+</header>
 
 <img src="https://ik.imagekit.io/dkdai9mqcy/Peek_19-04-2020_10-35_tq3GoCBv1.gif" />
 
