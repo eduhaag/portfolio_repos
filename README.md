@@ -1,14 +1,16 @@
+<p align="center">
+  <img src="https://ik.imagekit.io/dkdai9mqcy/logo_Projects_Repository_tt0lg2p01.png" /><br>
 
-  <nav align="center">
-    <img align="center" src="https://ik.imagekit.io/dkdai9mqcy/logo_Projects_Repository_tt0lg2p01.png"/>
   <img src="https://img.shields.io/github/languages/top/eduhaag/portfolio_repos?color=7159c1" />
-
   <img src="https://img.shields.io/github/license/eduhaag/portfolio_repos?color=%237159c1">
-
-  <img src="https://img.shields.io/github/repo-size/eduhaag/portfolio_repos?color=7159c1" />
-
-  [About](#--about) | [Technologies](#-technologies) | [How to use](#-how-to-use) | [Front end projects](#--front-end-projects)
-  </nav>
+  <img src="https://img.shields.io/github/repo-size/eduhaag/portfolio_repos?color=7159c1" /><br>
+</p>
+<p align="center">
+  <a href="#--about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--front-end-projects">Front end projects</a>
+</p><br>
 
 <img src="https://ik.imagekit.io/dkdai9mqcy/Peek_19-04-2020_10-35_tq3GoCBv1.gif" />
 
