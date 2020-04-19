@@ -7,7 +7,7 @@
 
   <img src="https://img.shields.io/github/repo-size/eduhaag/portfolio_repos?color=7159c1" />
 
-  [About](#about) | [Technologies](#technologies) | [How to use](#how-to-use) | [Front end projects](#front-end-projects)
+  [About](#memo-about) | [Technologies](#technologies) | [How to use](#how-to-use) | [Front end projects](#front-end-projects)
   </nav>
 </header>
 
